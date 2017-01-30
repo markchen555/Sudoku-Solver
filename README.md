@@ -29,4 +29,3 @@ Fork a copy from my github or download the repository on your computer, unzip it
 ### License
 
 The project is licensed under the [MIT license](license.txt).
-# Sudoku-Solver
